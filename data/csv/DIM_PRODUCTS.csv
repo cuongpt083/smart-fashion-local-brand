@@ -1,0 +1,121 @@
+﻿product_code,barcode,product_type,category_path,product_name,brand,uom,sale_price,cost_price,stock_on_hand,min_stock,max_stock,weight,conversion_rate,is_active,is_direct_sale
+SKU-BAD-1001,893890779946,Hàng hóa,Áo thun > Graphic Tee,Bad Rabbit Graphic Tee Trắng - Size M,Bad Rabbit,Cái,447000,187000,60,10,300,200,1,True,True
+SKU-SWE-1002,893349817734,Hàng hóa,Áo thun > Oversize Tee,SWE Oversize Tee Trắng - Size S,SWE,Cái,401000,154000,75,10,300,1000,1,True,True
+SKU-TEE-1003,893582334538,Hàng hóa,Áo thun > Basic Logo,Teelab Basic Logo Trắng - Size XL,Teelab,Cái,244000,100000,97,10,300,1000,1,True,True
+SKU-DIR-1004,893398362082,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Xám - Size XL,DirtyCoins,Cái,419000,206000,91,10,300,350,1,True,True
+SKU-TEE-1005,893469319644,Hàng hóa,Accessories > Cap,Teeworld Cap Xám - Size S,Teeworld,Chiếc,133000,52000,72,10,300,1000,1,True,True
+SKU-DIR-1006,893184611066,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Be - Size S,DirtyCoins,Cái,416000,185000,105,10,300,1000,1,True,True
+SKU-DIR-1007,893810026086,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Đen - Size S,DirtyCoins,Cái,631000,257000,76,10,300,350,1,True,True
+SKU-DIR-1008,893398471886,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Be - Size S,DirtyCoins,Cái,432000,178000,62,10,300,750,1,True,True
+SKU-NOW-1009,893833953718,Hàng hóa,Áo thun > Basic Tee,Now Saigon Basic Tee Rêu - Size L,Now Saigon,Cái,277000,119000,89,10,300,200,1,True,True
+SKU-TEE-1010,893507437181,Hàng hóa,Áo thun > Basic Logo,Teelab Basic Logo Be - Size M,Teelab,Cái,240000,116000,64,10,300,500,1,True,True
+SKU-SWE-1011,893982403818,Hàng hóa,Áo thun > Oversize Tee,SWE Oversize Tee Trắng - Size S,SWE,Cái,375000,187000,74,10,300,200,1,True,True
+SKU-NOW-1012,893803771909,Hàng hóa,Áo Polo > Streetwear,Now Saigon Streetwear Trắng - Size L,Now Saigon,Cái,355000,138000,53,10,300,750,1,True,True
+SKU-THE-1013,893702764446,Hàng hóa,Pants > Denim Short,The Orbit Denim Short Rêu - Size M,The Orbit,Chiếc,387000,161000,73,10,300,1000,1,True,True
+SKU-DIR-1014,893248532577,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Trắng - Size L,DirtyCoins,Cái,715000,330000,75,10,300,1000,1,True,True
+SKU-TSU-1015,893271779360,Hàng hóa,Áo thun > Graphic Logo Tee,TSUN Graphic Logo Tee Rêu - Size M,TSUN,Cái,292000,146000,57,10,300,750,1,True,True
+SKU-TEE-1016,893369953851,Hàng hóa,Áo thun > Basic Logo,Teelab Basic Logo Xanh Navy - Size XL,Teelab,Cái,220000,95000,79,10,300,1000,1,True,True
+SKU-COO-1017,893788227492,Hàng hóa,Menswear > Quần Lót Bamboo,Coolmate Quần Lót Bamboo Nâu - Size L,Coolmate,Cái,85000,40000,67,10,300,500,1,True,True
+SKU-BAD-1018,893872751234,Hàng hóa,Pants > Short Nỉ Wave,Bad Rabbit Short Nỉ Wave Rêu - Size S,Bad Rabbit,Chiếc,494000,199000,92,10,300,500,1,True,True
+SKU-SWE-1019,893786066793,Hàng hóa,Áo thun > Oversize Tee,SWE Oversize Tee Nâu - Size L,SWE,Cái,423000,215000,115,10,300,1000,1,True,True
+SKU-TEE-1020,893936043811,Hàng hóa,Áo thun > Basic Logo,Teelab Basic Logo Xanh Navy - Size M,Teelab,Cái,190000,82000,68,10,300,1000,1,True,True
+SKU-COO-1021,893992994062,Hàng hóa,Menswear > Quần Lót Bamboo,Coolmate Quần Lót Bamboo Xám - Size S,Coolmate,Cái,112000,50000,99,10,300,500,1,True,True
+SKU-TEE-1022,893885879795,Hàng hóa,Áo thun > Graphic Tee,Teeworld Graphic Tee Đen - Size S,Teeworld,Cái,252000,127000,94,10,300,750,1,True,True
+SKU-BAD-1023,893277303722,Hàng hóa,Outerwear > Hoodie,Bad Rabbit Hoodie Xanh Navy - Size XL,Bad Rabbit,Cái,751000,299000,96,10,300,500,1,True,True
+SKU-SWE-1024,893434702822,Hàng hóa,Outerwear > Hoodie Sweater,SWE Hoodie Sweater Rêu - Size M,SWE,Cái,753000,308000,64,10,300,750,1,True,True
+SKU-NOW-1025,893341266931,Hàng hóa,Áo Polo > Streetwear,Now Saigon Streetwear Trắng - Size S,Now Saigon,Cái,438000,198000,77,10,300,200,1,True,True
+SKU-NOW-1026,893860038427,Hàng hóa,Áo thun > Basic Tee,Now Saigon Basic Tee Đen - Size S,Now Saigon,Cái,240000,111000,83,10,300,200,1,True,True
+SKU-TEE-1027,893652070932,Hàng hóa,Áo thun > Graphic Tee,Teeworld Graphic Tee Đen - Size L,Teeworld,Cái,339000,130000,81,10,300,350,1,True,True
+SKU-DIR-1028,893942478695,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Trắng - Size XL,DirtyCoins,Cái,536000,244000,85,10,300,750,1,True,True
+SKU-THE-1029,893554814084,Hàng hóa,Unisex > Outfit Bundle Jersey,The Orbit Outfit Bundle Jersey Xám - Size XL,The Orbit,Bộ,475000,187000,92,10,300,750,1,True,True
+SKU-TSU-1030,893217326729,Hàng hóa,Áo thun > Graphic Logo Tee,TSUN Graphic Logo Tee Nâu - Size L,TSUN,Cái,306000,119000,79,10,300,350,1,True,True
+SKU-TEE-1031,893399085574,Hàng hóa,Áo thun > Graphic Tee,Teeworld Graphic Tee Trắng - Size XL,Teeworld,Cái,290000,128000,74,10,300,750,1,True,True
+SKU-TEE-1032,893800235246,Hàng hóa,Áo thun > Graphic Tee,Teeworld Graphic Tee Đen - Size S,Teeworld,Cái,278000,137000,55,10,300,1000,1,True,True
+SKU-COO-1033,893536383774,Hàng hóa,Áo thun > Basic Tee,Coolmate Basic Tee Trắng - Size M,Coolmate,Cái,281000,136000,54,10,300,750,1,True,True
+SKU-TSU-1034,893102314313,Hàng hóa,Áo thun > Graphic Logo Tee,TSUN Graphic Logo Tee Be - Size M,TSUN,Cái,385000,195000,101,10,300,750,1,True,True
+SKU-DIR-1035,893303901283,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Trắng - Size XL,DirtyCoins,Cái,555000,244000,51,10,300,500,1,True,True
+SKU-TEE-1036,893436730606,Hàng hóa,Áo thun > Graphic Tee,Teeworld Graphic Tee Rêu - Size S,Teeworld,Cái,296000,143000,89,10,300,200,1,True,True
+SKU-COO-1037,893645276696,Hàng hóa,Menswear > Quần Lót Bamboo,Coolmate Quần Lót Bamboo Đen - Size M,Coolmate,Cái,132000,59000,73,10,300,200,1,True,True
+SKU-DKM-1038,893228727266,Hàng hóa,Áo thun > Basic Tee,DKMV Basic Tee Be - Size M,DKMV,Cái,228000,89000,85,10,300,1000,1,True,True
+SKU-TEE-1039,893319321646,Hàng hóa,Áo thun > Graphic Tee,Teeworld Graphic Tee Xám - Size L,Teeworld,Cái,301000,118000,80,10,300,500,1,True,True
+SKU-TEE-1040,893439492674,Hàng hóa,Accessories > Cap,Teeworld Cap Be - Size L,Teeworld,Chiếc,172000,69000,82,10,300,200,1,True,True
+SKU-COO-1041,893677280546,Hàng hóa,Áo Polo > Smart Casual,Coolmate Smart Casual Đen - Size S,Coolmate,Cái,371000,193000,56,10,300,350,1,True,True
+SKU-SWE-1042,893496776692,Hàng hóa,Outerwear > Hoodie Sweater,SWE Hoodie Sweater Trắng - Size S,SWE,Cái,535000,273000,89,10,300,500,1,True,True
+SKU-DKM-1043,893977358886,Hàng hóa,Womenswear > Madria Dress,DKMV Madria Dress Rêu - Size S,DKMV,Cái,592000,283000,66,10,300,1000,1,True,True
+SKU-DIR-1044,893214929002,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Đen - Size L,DirtyCoins,Cái,443000,223000,78,10,300,1000,1,True,True
+SKU-DKM-1045,893838194420,Hàng hóa,Womenswear > Madria Dress,DKMV Madria Dress Trắng - Size L,DKMV,Cái,524000,243000,64,10,300,500,1,True,True
+SKU-SWE-1046,893781057736,Hàng hóa,Outerwear > Hoodie Sweater,SWE Hoodie Sweater Đen - Size S,SWE,Cái,566000,287000,99,10,300,750,1,True,True
+SKU-DIR-1047,893381272327,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Rêu - Size M,DirtyCoins,Cái,320000,137000,56,10,300,350,1,True,True
+SKU-TSU-1048,893138684919,Hàng hóa,Outerwear > Jacket,TSUN Jacket Xanh Navy - Size M,TSUN,Cái,485000,192000,64,10,300,500,1,True,True
+SKU-TEE-1049,893954829815,Hàng hóa,Áo thun > Basic Logo,Teelab Basic Logo Xám - Size L,Teelab,Cái,226000,90000,76,10,300,200,1,True,True
+SKU-NOW-1050,893701170349,Hàng hóa,Áo thun > Basic Tee,Now Saigon Basic Tee Nâu - Size L,Now Saigon,Cái,245000,116000,65,10,300,750,1,True,True
+SKU-TEE-1051,893126614158,Hàng hóa,Áo thun > Basic Logo,Teelab Basic Logo Be - Size M,Teelab,Cái,201000,101000,107,10,300,350,1,True,True
+SKU-NOW-1052,893270937380,Hàng hóa,Áo Polo > Streetwear,Now Saigon Streetwear Xám - Size M,Now Saigon,Cái,425000,201000,99,10,300,200,1,True,True
+SKU-THE-1053,893594246837,Hàng hóa,Unisex > Outfit Bundle Jersey,The Orbit Outfit Bundle Jersey Nâu - Size M,The Orbit,Bộ,675000,301000,99,10,300,500,1,True,True
+SKU-DIR-1054,893452468587,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Be - Size M,DirtyCoins,Cái,349000,134000,74,10,300,500,1,True,True
+SKU-BAD-1055,893675757257,Hàng hóa,Pants > Short Nỉ Wave,Bad Rabbit Short Nỉ Wave Rêu - Size XL,Bad Rabbit,Chiếc,472000,222000,85,10,300,500,1,True,True
+SKU-COO-1056,893385042337,Hàng hóa,Áo thun > Basic Tee,Coolmate Basic Tee Xanh Navy - Size M,Coolmate,Cái,275000,142000,103,10,300,200,1,True,True
+SKU-BAD-1057,893750911797,Hàng hóa,Outerwear > Hoodie,Bad Rabbit Hoodie Be - Size L,Bad Rabbit,Cái,664000,284000,95,10,300,1000,1,True,True
+SKU-BAD-1058,893658260221,Hàng hóa,Pants > Short Nỉ Wave,Bad Rabbit Short Nỉ Wave Đen - Size XL,Bad Rabbit,Chiếc,430000,179000,57,10,300,1000,1,True,True
+SKU-TEE-1059,893437064353,Hàng hóa,Accessories > Cap,Teeworld Cap Xanh Navy - Size L,Teeworld,Chiếc,177000,69000,79,10,300,200,1,True,True
+SKU-DIR-1060,893417457352,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Rêu - Size XL,DirtyCoins,Cái,655000,286000,103,10,300,1000,1,True,True
+SKU-DKM-1061,893903303363,Hàng hóa,Áo thun > Basic Tee,DKMV Basic Tee Rêu - Size XL,DKMV,Cái,205000,97000,79,10,300,350,1,True,True
+SKU-TEE-1062,893408071259,Hàng hóa,Pants > Shorts,Teelab Shorts Xám - Size S,Teelab,Chiếc,326000,149000,84,10,300,350,1,True,True
+SKU-THE-1063,893608079792,Hàng hóa,Pants > Denim Short,The Orbit Denim Short Xanh Navy - Size M,The Orbit,Chiếc,472000,209000,100,10,300,350,1,True,True
+SKU-BAD-1064,893978775497,Hàng hóa,Pants > Short Nỉ Wave,Bad Rabbit Short Nỉ Wave Đen - Size L,Bad Rabbit,Chiếc,515000,244000,82,10,300,350,1,True,True
+SKU-DIR-1065,893362897676,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Đen - Size S,DirtyCoins,Cái,426000,174000,66,10,300,750,1,True,True
+SKU-TEE-1066,893847704681,Hàng hóa,Áo thun > Basic Logo,Teelab Basic Logo Rêu - Size M,Teelab,Cái,230000,101000,80,10,300,750,1,True,True
+SKU-TSU-1067,893926830795,Hàng hóa,Outerwear > Jacket,TSUN Jacket Nâu - Size S,TSUN,Cái,608000,244000,71,10,300,200,1,True,True
+SKU-THE-1068,893698509918,Hàng hóa,Unisex > Outfit Bundle Jersey,The Orbit Outfit Bundle Jersey Đen - Size XL,The Orbit,Bộ,496000,244000,61,10,300,350,1,True,True
+SKU-BAD-1069,893575209597,Hàng hóa,Pants > Short Nỉ Wave,Bad Rabbit Short Nỉ Wave Nâu - Size L,Bad Rabbit,Chiếc,415000,204000,101,10,300,1000,1,True,True
+SKU-SWE-1070,893898493949,Hàng hóa,Outerwear > Hoodie Sweater,SWE Hoodie Sweater Trắng - Size XL,SWE,Cái,718000,364000,88,10,300,750,1,True,True
+SKU-TSU-1071,893935021998,Hàng hóa,Outerwear > Jacket,TSUN Jacket Nâu - Size L,TSUN,Cái,610000,304000,65,10,300,1000,1,True,True
+SKU-TSU-1072,893391751878,Hàng hóa,Áo thun > Graphic Logo Tee,TSUN Graphic Logo Tee Trắng - Size L,TSUN,Cái,352000,155000,76,10,300,500,1,True,True
+SKU-NOW-1073,893264073400,Hàng hóa,Áo thun > Basic Tee,Now Saigon Basic Tee Rêu - Size XL,Now Saigon,Cái,216000,87000,80,10,300,350,1,True,True
+SKU-BAD-1074,893166857303,Hàng hóa,Pants > Short Nỉ Wave,Bad Rabbit Short Nỉ Wave Be - Size XL,Bad Rabbit,Chiếc,487000,208000,99,10,300,350,1,True,True
+SKU-THE-1075,893922050912,Hàng hóa,Pants > Denim Short,The Orbit Denim Short Nâu - Size S,The Orbit,Chiếc,503000,258000,58,10,300,1000,1,True,True
+SKU-THE-1076,893518744974,Hàng hóa,Pants > Denim Short,The Orbit Denim Short Nâu - Size L,The Orbit,Chiếc,352000,180000,82,10,300,750,1,True,True
+SKU-SWE-1077,893131165166,Hàng hóa,Áo thun > Oversize Tee,SWE Oversize Tee Be - Size XL,SWE,Cái,418000,172000,86,10,300,750,1,True,True
+SKU-NOW-1078,893768143326,Hàng hóa,Áo Polo > Streetwear,Now Saigon Streetwear Trắng - Size XL,Now Saigon,Cái,415000,167000,70,10,300,1000,1,True,True
+SKU-COO-1079,893790147183,Hàng hóa,Áo Polo > Smart Casual,Coolmate Smart Casual Đen - Size S,Coolmate,Cái,368000,169000,99,10,300,750,1,True,True
+SKU-DKM-1080,893327268503,Hàng hóa,Womenswear > Madria Dress,DKMV Madria Dress Xám - Size XL,DKMV,Cái,498000,193000,90,10,300,750,1,True,True
+SKU-NOW-1081,893993271900,Hàng hóa,Áo Polo > Streetwear,Now Saigon Streetwear Nâu - Size L,Now Saigon,Cái,420000,211000,62,10,300,750,1,True,True
+SKU-DIR-1082,893340756713,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Xám - Size S,DirtyCoins,Cái,382000,146000,63,10,300,200,1,True,True
+SKU-COO-1083,893263619298,Hàng hóa,Áo thun > Basic Tee,Coolmate Basic Tee Xanh Navy - Size S,Coolmate,Cái,284000,118000,55,10,300,350,1,True,True
+SKU-DKM-1084,893851044796,Hàng hóa,Womenswear > Madria Dress,DKMV Madria Dress Be - Size M,DKMV,Cái,625000,248000,62,10,300,500,1,True,True
+SKU-NOW-1085,893216070149,Hàng hóa,Áo thun > Basic Tee,Now Saigon Basic Tee Xám - Size M,Now Saigon,Cái,210000,103000,80,10,300,1000,1,True,True
+SKU-COO-1086,893867741192,Hàng hóa,Áo Polo > Smart Casual,Coolmate Smart Casual Be - Size XL,Coolmate,Cái,365000,173000,66,10,300,350,1,True,True
+SKU-BAD-1087,893848605284,Hàng hóa,Outerwear > Hoodie,Bad Rabbit Hoodie Đen - Size M,Bad Rabbit,Cái,731000,363000,77,10,300,500,1,True,True
+SKU-TEE-1088,893672030854,Hàng hóa,Áo thun > Basic Logo,Teelab Basic Logo Xám - Size S,Teelab,Cái,274000,142000,105,10,300,750,1,True,True
+SKU-NOW-1089,893551034639,Hàng hóa,Áo thun > Basic Tee,Now Saigon Basic Tee Nâu - Size S,Now Saigon,Cái,313000,147000,47,10,300,750,1,True,True
+SKU-BAD-1090,893264272995,Hàng hóa,Pants > Short Nỉ Wave,Bad Rabbit Short Nỉ Wave Rêu - Size XL,Bad Rabbit,Chiếc,475000,223000,69,10,300,750,1,True,True
+SKU-DKM-1091,893967797300,Hàng hóa,Outerwear > Varsity Jacket,DKMV Varsity Jacket Xanh Navy - Size L,DKMV,Cái,657000,338000,61,10,300,1000,1,True,True
+SKU-TSU-1092,893363598427,Hàng hóa,Outerwear > Jacket,TSUN Jacket Xám - Size L,TSUN,Cái,708000,351000,71,10,300,200,1,True,True
+SKU-DIR-1093,893130816384,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Xám - Size XL,DirtyCoins,Cái,544000,264000,99,10,300,750,1,True,True
+SKU-NOW-1094,893400281010,Hàng hóa,Áo thun > Basic Tee,Now Saigon Basic Tee Xám - Size L,Now Saigon,Cái,308000,126000,71,10,300,1000,1,True,True
+SKU-DIR-1095,893873174285,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Trắng - Size S,DirtyCoins,Cái,388000,199000,84,10,300,750,1,True,True
+SKU-TSU-1096,893951405188,Hàng hóa,Áo thun > Graphic Logo Tee,TSUN Graphic Logo Tee Be - Size XL,TSUN,Cái,405000,191000,78,10,300,200,1,True,True
+SKU-BAD-1097,893812921644,Hàng hóa,Pants > Short Nỉ Wave,Bad Rabbit Short Nỉ Wave Xám - Size M,Bad Rabbit,Chiếc,438000,191000,62,10,300,1000,1,True,True
+SKU-NOW-1098,893690975123,Hàng hóa,Áo Polo > Streetwear,Now Saigon Streetwear Rêu - Size XL,Now Saigon,Cái,393000,179000,79,10,300,500,1,True,True
+SKU-NOW-1099,893874473159,Hàng hóa,Áo Polo > Streetwear,Now Saigon Streetwear Đen - Size M,Now Saigon,Cái,356000,151000,82,10,300,350,1,True,True
+SKU-NOW-1100,893878017216,Hàng hóa,Áo thun > Basic Tee,Now Saigon Basic Tee Xám - Size XL,Now Saigon,Cái,229000,93000,81,10,300,1000,1,True,True
+SKU-SWE-1101,893344258191,Hàng hóa,Outerwear > Hoodie Sweater,SWE Hoodie Sweater Xám - Size M,SWE,Cái,757000,298000,100,10,300,500,1,True,True
+SKU-DKM-1102,893148872110,Hàng hóa,Womenswear > Madria Dress,DKMV Madria Dress Xám - Size M,DKMV,Cái,454000,218000,108,10,300,200,1,True,True
+SKU-SWE-1103,893113169872,Hàng hóa,Outerwear > Hoodie Sweater,SWE Hoodie Sweater Đen - Size XL,SWE,Cái,683000,350000,65,10,300,1000,1,True,True
+SKU-DIR-1104,893371096600,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Đen - Size M,DirtyCoins,Cái,605000,267000,70,10,300,750,1,True,True
+SKU-BAD-1105,893260199682,Hàng hóa,Áo thun > Graphic Tee,Bad Rabbit Graphic Tee Trắng - Size S,Bad Rabbit,Cái,403000,181000,80,10,300,1000,1,True,True
+SKU-DIR-1106,893740086326,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Xanh Navy - Size XL,DirtyCoins,Cái,353000,140000,98,10,300,1000,1,True,True
+SKU-TEE-1107,893731924051,Hàng hóa,Accessories > Cap,Teeworld Cap Nâu - Size L,Teeworld,Chiếc,179000,91000,95,10,300,750,1,True,True
+SKU-DIR-1108,893323110563,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Nâu - Size S,DirtyCoins,Cái,400000,206000,55,10,300,350,1,True,True
+SKU-DIR-1109,893102873038,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Trắng - Size S,DirtyCoins,Cái,341000,141000,76,10,300,750,1,True,True
+SKU-TSU-1110,893403566540,Hàng hóa,Outerwear > Jacket,TSUN Jacket Rêu - Size L,TSUN,Cái,633000,243000,109,10,300,750,1,True,True
+SKU-BAD-1111,893223240112,Hàng hóa,Outerwear > Hoodie,Bad Rabbit Hoodie Be - Size M,Bad Rabbit,Cái,611000,311000,98,10,300,1000,1,True,True
+SKU-TEE-1112,893164035859,Hàng hóa,Áo thun > Graphic Tee,Teeworld Graphic Tee Đen - Size M,Teeworld,Cái,339000,141000,95,10,300,350,1,True,True
+SKU-DIR-1113,893532190231,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Rêu - Size L,DirtyCoins,Cái,595000,236000,100,10,300,500,1,True,True
+SKU-SWE-1114,893888699799,Hàng hóa,Outerwear > Hoodie Sweater,SWE Hoodie Sweater Be - Size S,SWE,Cái,615000,241000,65,10,300,500,1,True,True
+SKU-TEE-1115,893821856853,Hàng hóa,Pants > Shorts,Teelab Shorts Nâu - Size S,Teelab,Chiếc,227000,89000,103,10,300,500,1,True,True
+SKU-TEE-1116,893799552991,Hàng hóa,Áo thun > Basic Logo,Teelab Basic Logo Xanh Navy - Size XL,Teelab,Cái,270000,131000,92,10,300,750,1,True,True
+SKU-DIR-1117,893604669821,Hàng hóa,Áo thun > Graphic Tee Endless,DirtyCoins Graphic Tee Endless Đen - Size XL,DirtyCoins,Cái,397000,175000,103,10,300,500,1,True,True
+SKU-THE-1118,893542000551,Hàng hóa,Pants > Denim Short,The Orbit Denim Short Xám - Size M,The Orbit,Chiếc,434000,206000,64,10,300,750,1,True,True
+SKU-DIR-1119,893194553481,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Be - Size S,DirtyCoins,Cái,693000,337000,113,10,300,500,1,True,True
+SKU-DIR-1120,893652543518,Hàng hóa,Pants > Baggy Jeans,DirtyCoins Baggy Jeans Nâu - Size XL,DirtyCoins,Cái,510000,263000,70,10,300,200,1,True,True

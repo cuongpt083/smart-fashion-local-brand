@@ -1,0 +1,26 @@
+﻿employee_code,employee_name,phone,department,title,login,branch_working,salary,dob,start_date
+EMP-001,Vũ Dương,06 5612481,Marketing,Nhân viên kho,emp001,Chi nhánh Quận 1 (HCM),9000000.0,1992-12-12,2025-05-13
+EMP-002,Bảo Văn Nguyễn,+84-27-206 3459,Kho & Vận chuyển,Trưởng ca,emp002,Chi nhánh Quận 1 (HCM),11000000.0,1987-04-15,2024-01-12
+EMP-003,Quý cô Thành Dương,02 4295431,Kho & Vận chuyển,Nhân viên kho,emp003,Chi nhánh Hàng Bông (HN),11000000.0,1994-04-07,2024-02-08
+EMP-004,Khoa Hải Nguyễn,+84 89 3173420,Bán hàng Online,Chuyên viên tư vấn,emp004,Chi nhánh Hàng Bông (HN),14000000.0,1993-12-24,2024-11-04
+EMP-005,Hoàng Trần,02 9108 6771,Bán hàng Online,Chuyên viên tư vấn,emp005,Chi nhánh Quận 1 (HCM),9000000.0,1990-04-10,2024-03-02
+EMP-006,Khoa Dương,02 6393436,Cửa hàng Flagship,Nhân viên bán hàng,emp006,Chi nhánh Hàng Bông (HN),11000000.0,1989-05-07,2025-12-07
+EMP-007,Thảo Vũ,(09) 7359 7107,Marketing,Nhân viên kho,emp007,Chi nhánh Hàng Bông (HN),9000000.0,1988-05-10,2024-07-11
+EMP-008,Hải Hoàng Bùi,+84-69-411 8005,Kho & Vận chuyển,Chuyên viên tư vấn,emp008,Chi nhánh Hàng Bông (HN),9000000.0,2005-02-10,2024-12-20
+EMP-009,Trọng Thị Nguyễn,08 9646 5280,Marketing,Nhân viên kho,emp009,Chi nhánh Quận 1 (HCM),11000000.0,1997-10-01,2024-05-04
+EMP-010,Bác Bảo Lê,+84 58 6241502,Marketing,Nhân viên bán hàng,emp010,Chi nhánh Hàng Bông (HN),14000000.0,1996-01-16,2026-06-23
+EMP-011,Quang Bùi,04 9485 6257,Marketing,Trưởng ca,emp011,Chi nhánh Hàng Bông (HN),11000000.0,2001-08-06,2024-01-05
+EMP-012,Ông Trung Lê,+84 32 0742761,Bán hàng Online,Nhân viên bán hàng,emp012,Chi nhánh Quận 1 (HCM),14000000.0,2006-06-17,2026-05-04
+EMP-013,Chi Đặng,+84-87-771 2151,Marketing,Chuyên viên tư vấn,emp013,Kho Tổng Bình Dương,7500000.0,1989-11-02,2024-05-30
+EMP-014,Bà Khoa Hoàng,(09) 0892 6137,Bán hàng Online,Nhân viên kho,emp014,Chi nhánh Hàng Bông (HN),11000000.0,1999-10-10,2026-03-21
+EMP-015,Thảo Trần,05 9152017,Kho & Vận chuyển,Nhân viên kho,emp015,Chi nhánh Quận 1 (HCM),7500000.0,2003-01-02,2025-07-15
+EMP-016,Bác Trọng Nguyễn,00 9759 2304,Marketing,Nhân viên bán hàng,emp016,Kho Tổng Bình Dương,9000000.0,1992-05-06,2023-09-22
+EMP-017,Phương Hoàng,01 6423610,Kho & Vận chuyển,Chuyên viên tư vấn,emp017,Chi nhánh Hàng Bông (HN),14000000.0,2003-06-17,2024-01-18
+EMP-018,Hạnh Trí Trần,07 6492 5158,Marketing,Chuyên viên tư vấn,emp018,Kho Tổng Bình Dương,7500000.0,1989-10-04,2024-11-22
+EMP-019,Nhật Đức Hoàng,+84-61-659266,Cửa hàng Flagship,Nhân viên bán hàng,emp019,Chi nhánh Quận 1 (HCM),11000000.0,1987-07-06,2025-02-05
+EMP-020,Anh Hoàng Dương,+84-81-476174,Kho & Vận chuyển,Chuyên viên tư vấn,emp020,Chi nhánh Hàng Bông (HN),9000000.0,1988-09-05,2023-12-10
+EMP-021,Quang Mai,04 9081081,Marketing,Nhân viên bán hàng,emp021,Chi nhánh Hàng Bông (HN),7500000.0,1996-04-13,2024-10-18
+EMP-022,Bác Quang Vũ,+84-18-017226,Cửa hàng Flagship,Chuyên viên tư vấn,emp022,Chi nhánh Quận 1 (HCM),14000000.0,1986-07-06,2024-10-21
+EMP-023,Dũng Hoàng,+84-77-945 2321,Cửa hàng Flagship,Trưởng ca,emp023,Chi nhánh Quận 1 (HCM),11000000.0,2001-03-31,2025-05-15
+EMP-024,Kim Mai,+84 06 1027769,Cửa hàng Flagship,Nhân viên kho,emp024,Kho Tổng Bình Dương,11000000.0,2000-10-20,2024-06-19
+EMP-025,Thành Thế Trần,(02) 0310 3037,Kho & Vận chuyển,Nhân viên kho,emp025,Kho Tổng Bình Dương,11000000.0,1999-03-07,2025-07-04
